@@ -7,3 +7,7 @@ Nomor bot?
 Nomor owner?
 
 085281822916
+
+Mampir gan ^_^
+
+https://api.i-tech.id/
