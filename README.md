@@ -6,7 +6,7 @@ Nomor bot?
 
 Nomor owner?
 
-085281822916
++6288289848303
 
 Mampir gan ^_^
 
