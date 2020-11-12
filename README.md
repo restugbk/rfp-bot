@@ -14,5 +14,6 @@ https://api.i-tech.id/
 
 ## NEW FITURE RFP BOT
 
-<img src="https://api.i-tech.id/img/face1.PNG"/><br>
-<img src="https://api.i-tech.id/img/face2.PNG"/>
+Face Detection By RFP BOT ^_^
+
+<img src="https://api.i-tech.id/img/facedetect.jpg"/>
